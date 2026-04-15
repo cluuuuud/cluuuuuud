@@ -1,4 +1,4 @@
-# Hi there, I'm @cluuuuud 👋
+# Hi there, I'm Bouslah Yousra 👋
 
 Welcome to my GitHub profile! I'm a Computer Science student focused on building real systems and improving my skills in development and security.
 
