@@ -1,4 +1,4 @@
-# Hi there, I'm @cluuuuuud 👋
+# Hi there, I'm @cluuuuud 👋
 
 Welcome to my GitHub profile! I'm a Computer Science student focused on building real systems and improving my skills in development and security.
 
