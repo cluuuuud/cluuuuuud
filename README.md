@@ -95,6 +95,6 @@
 ---
 
 ## 📫 Contact
-bouslahyousra669@gmail.com
 
-- 📧 your-email@example.com
+- 📧 bouslahyousra669@gmail.com
+ 
