@@ -1,100 +1,94 @@
-<h1 align="center">Hi 👋, I'm Bouslah Yousra</h1>
-<h3 align="center">Computer Science Student | System-Oriented Developer</h3>
+# Hi there, I'm @cluuuuuud 👋
 
-<p align="center">
-  <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com?color=4D96FF&size=22&center=true&vCenter=true&width=500&lines=Building+Secure+Systems;Flutter+Developer;Future+Cyber+Security+Engineer" />
-  </a>
-</p>
+Welcome to my GitHub profile! I'm a Computer Science student focused on building real systems and improving my skills in development and security.
 
 ---
 
-## 🧠 About Me
+## 🚀 About Me
+
+I'm a Computer Science student interested in building structured applications and learning modern technologies.
 
 - 🎓 Computer Science student  
-- 🧩 I design systems before coding them  
-- 🔐 Interested in **Security & Authentication Systems**  
-- ⚙️ I connect **Frontend + Backend Logic + Database**  
-- 🌐 Background in **Networking (Cisco)**  
+- 🔐 Interested in security and authentication systems  
+- ⚙️ Work on combining UI, logic, and database  
+- 🌐 Basic networking knowledge (Cisco Packet Tracer)  
 - 🎯 Goal: Full Stack Developer → Cyber Security  
 
 ---
 
-## ⚡ Tech Stack
+## 💻 What I Do
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,cpp,c,js,dart,html,css,flutter,git,github,vscode,androidstudio" />
-
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 🔹 Teacher Management System
-- Attendance tracking system  
-- Session & timetable management  
-- ER-based database design  
-- Structured Flutter UI  
+- Build and develop academic and personal projects  
+- Create authentication systems with validation  
+- Design systems using ER diagrams and workflows  
+- Develop UI using Flutter and Java  
 
 ---
 
-### 🔐 Secure Authentication System
-- Password encryption  
-- Input validation  
-- First login reset logic  
-- Database integration  
+## 📊 My GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cluuuuud&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cluuuuud&layout=compact&theme=radical)
 
 ---
 
-### 💻 Desktop Login System (Java)
-- Built using NetBeans  
-- Clean UI + validation  
-- Authentication logic  
+## 🛠️ Skills & Technologies
+
+- **Languages:** Java, C, C++, JavaScript, Dart, SQL, XML  
+- **Frameworks & Libraries:** Flutter  
+- **Tools & Platforms:** Git, GitHub, NetBeans, Android Studio, VS Code  
+- **Other:** Cisco Packet Tracer, XML structuring & validation  
 
 ---
 
-### 🌐 XML Data Project
-- XML structuring  
-- CSS styling  
-- Data validation (Schema)  
-- Focus on data integrity  
+## 📌 Featured Projects
+
+- **Teacher Management System**  
+  → Designed and developed a complete academic management system  
+  → Features: attendance tracking, session organization, timetable management  
+  → Structured using ER diagrams and workflow modeling  
+
+- **Secure Authentication System**  
+  → Implemented login system with input validation and password protection  
+  → Focused on secure handling of user credentials  
+  → Applied best practices for authentication logic  
+
+- **Desktop Login System (Java - NetBeans)**  
+  → Built a graphical login interface with validation logic  
+  → Implemented user input control and authentication flow  
+  → Focused on clean UI and structured code  
+
+- **XML Movies Data Project**  
+  → Designed structured XML data for movie management  
+  → Styled data using CSS and ensured validation correctness  
+  → Applied multiple validation techniques for data integrity  
+
+- **Network Simulation Project (Cisco Packet Tracer)**  
+  → Designed and simulated a network infrastructure  
+  → Configured devices and tested connectivity  
+  → Gained practical understanding of network architecture  
 
 ---
 
-### 🌍 Network Simulation
-- Cisco Packet Tracer  
-- Network topology design  
-- Device configuration  
-- Protocol understanding  
+## 🌱 Currently Learning
+
+- Flutter development  
+- Backend basics  
+- Cyber Security fundamentals  
 
 ---
 
-## 📊 GitHub Analytics
+## 💬 Let's Connect
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cluuuuuud&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cluuuuuud&theme=tokyonight&hide_border=true" />
-</p>
+- **Email:** bouslahyousra669@gmail.com  
 
 ---
 
-## 🧭 Current Focus
+## 📈 Recent Activity
 
-- Flutter Development  
-- Backend & APIs  
-- Cyber Security Fundamentals  
+Check out my repositories below to see what I'm working on!
 
 ---
 
-## 💡 Mindset
-
-> I don't just build apps, I build systems.
-
----
-
-## 📫 Contact
-
-- 📧 bouslahyousra669@gmail.com
- 
+**Thanks for visiting!** 🤝
